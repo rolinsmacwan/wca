@@ -36,7 +36,7 @@ if Uploaded_file is not None:
         with col3:
             st.header("Media Shared")
             st.header(num_media_messages)
-        with col3:
+        with col4:
             st.header("Links Shared")
             st.header(num_links)
 
