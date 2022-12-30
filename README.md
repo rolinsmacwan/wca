@@ -1,11 +1,11 @@
 # Chat Analyzer
 
-👉 This app is show the statistical information of chats.   
-👉 To use this application, follow the steps given below:-     
-🔸Download your chats from whatsapp in text format (Make sure that time format of your device is in 24H).  
-🔸Browse that file on this application.   
-🔸Choose option for result.  
-🔸Click on "Show analysis" btn. This will display respective result.
+👉The app displays statistics about chats.     
+👉 You can use this application by following these steps:-     
+🔸Export your Whatsapp chats in text format (Make sure your device's time format is 24H).
+🔸You have to browse that file in this application.
+🔸Make your choice for a result.
+🔸You can view the analysis by clicking the "Show analysis" button. You will see the corresponding result.
 
 ## Demo
 
