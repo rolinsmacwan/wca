@@ -1,0 +1,23 @@
+{
+  "name": "wca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolinsmacwan/wca"
+  },
+  "author": "",
+  "dependencies": {
+    "streamlit": "^1.16.0",
+    "matplotlib": "",
+    "seaborn": "",
+    "urlextract": "",
+    "wordcloud": "",
+    "pandas": "",
+    "emoji": "",
+  }
+}
