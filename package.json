@@ -12,12 +12,12 @@
   },
   "author": "",
   "dependencies": {
-    "streamlit": "^1.16.0",
-    "matplotlib": "",
-    "seaborn": "",
-    "urlextract": "",
-    "wordcloud": "",
-    "pandas": "",
-    "emoji": "",
+    "streamlit": "^1.16.0"
+    "matplotlib": ""
+    "seaborn": ""
+    "urlextract": ""
+    "wordcloud": ""
+    "pandas": ""
+    "emoji": ""
   }
 }
